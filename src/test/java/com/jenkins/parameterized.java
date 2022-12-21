@@ -9,6 +9,6 @@ public class parameterized {
 		System.out.println("excute parallel");
 		String BROWSER = System.getProperty("browser");
 		System.out.println("BROWSER==>"+ BROWSER);
-		
+		System.out.println("4565");
 	}
 }
